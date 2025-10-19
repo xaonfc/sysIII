@@ -1,6 +1,6 @@
-Here is the instructions to install SysIII on the SIMH VAX Emulator.
+Here are the (not so easy to follow) instructions to install SysIII on the SIMH VAX Emulator.
 
-From [https://web.archive.org/web/20190411165353/http://a.papnet.eu/UNIX/sysIII_vax/Installation](https://web.archive.org/web/20190411165353/http://a.papnet.eu/UNIX/sysIII_vax/Installation):
+Credits to [https://web.archive.org/web/20190411165353/http://a.papnet.eu/UNIX/sysIII_vax/Installation](https://web.archive.org/web/20190411165353/http://a.papnet.eu/UNIX/sysIII_vax/Installation):
 
 -----------------------------------------------
 
